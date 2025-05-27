@@ -1,6 +1,6 @@
 {
  "argv": [
-  "/Users/sanchitpasricha/Ai/langchain/venv/bin/python",
+  "python",
   "-m",
   "ipykernel_launcher",
   "-f",

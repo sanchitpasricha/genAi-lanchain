@@ -1,1 +1,3 @@
 ipykernel
+streamlit
+watchdog
